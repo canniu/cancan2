@@ -2,4 +2,11 @@
 	padding: 20px;
 	border: 1px solid red;
 	background: red;
+	width:200px;
+	height: 200px;
+}
+.div2 {
+	background: green;
+	width:100px;
+	height:100px;
 }
